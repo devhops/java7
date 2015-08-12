@@ -7,6 +7,6 @@ else
 end
 
 gem 'rspec'
-gem 'rpsec-puppet'
+gem 'rspec-puppet'
 gem 'puppet-lint'
 gem 'puppet', puppetversion

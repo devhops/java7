@@ -1,1 +1,3 @@
-class java7
+class java7{
+	
+}

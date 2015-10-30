@@ -1,0 +1,13 @@
+{
+  "name": "devhops-java7",
+  "version": "1.0.0",
+  "author": "devhops",
+  "summary": "Module for installing openjdk-7-jre",
+  "license": "MIT",
+  "source": "https://github.com/devhops/java7",
+  "project_page": "https://github.com/devhops/java7",
+  "issues_url": "https://github.com/devhops/java7/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
